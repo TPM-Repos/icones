@@ -27,12 +27,7 @@ export const SnippetMap: Record<string, Record<string, Snippet>> = {
     'vue-ts': { name: 'Vue', tag: 'TS', lang: 'vue', prettierParser: 'vue' },
     'jsx': { name: 'React', lang: 'jsx', prettierParser: 'typescript' },
     'tsx': { name: 'React', tag: 'TS', lang: 'tsx', prettierParser: 'typescript' },
-    'svelte': { name: 'Svelte', lang: 'svelte', prettierParser: 'typescript' },
-    'qwik': { name: 'Qwik', lang: 'tsx', prettierParser: 'typescript' },
-    'solid': { name: 'Solid', lang: 'tsx', prettierParser: 'typescript' },
-    'astro': { name: 'Astro', lang: 'astro', prettierParser: 'typescript' },
     'react-native': { name: 'React Native', lang: 'tsx', prettierParser: 'typescript' },
-    'unplugin': { name: 'Unplugin Icons', lang: 'tsx', prettierParser: 'typescript' },
   },
   Links: {
     url: { name: 'URL', lang: 'html', prettierParser: 'html' },
@@ -115,18 +110,6 @@ export function ${name}(props: SVGProps<SVGSVGElement>) {
   return prettierCode(code, 'babel-ts')
 }
 
-export function SvgToQwik(svg: string, name: string, snippet: boolean) {
-  let code = `
-export function ${name}(props: QwikIntrinsicElements['svg'], key: string) {
-  return (
-    ${ClearSvg(svg, false).replace(/<svg (.*?)>/, '<svg $1 {...props} key={key}>')}
-  )
-}`
-
-  code = snippet ? code : `import type { QwikIntrinsicElements } from '@builder.io/qwik'\n${code}\nexport default ${name}`
-  return prettierCode(code, 'babel-ts')
-}
-
 export function SvgToVue(svg: string, name: string, isTs?: boolean) {
   const content = `
 <template>
@@ -140,32 +123,6 @@ export default {
 </script>`
   const code = isTs ? content.replace('<script>', '<script lang="ts">') : content
   return prettierCode(code, 'vue')
-}
-
-export function SvgToSolid(svg: string, name: string, snippet: boolean) {
-  let code = `
-export function ${name}(props: JSX.IntrinsicElements['svg']) {
-  return (
-    ${svg.replace(/<svg (.*?)>/, '<svg $1 {...props}>')}
-  )
-}`
-
-  code = snippet ? code : `import type { JSX } from 'solid-js'\n${code}\nexport default ${name}`
-  return prettierCode(code, 'babel-ts')
-}
-
-export function SvgToSvelte(svg: string) {
-  return `${svg.replace(/<svg (.*?)>/, '<svg $1 {...$$$props}>')}`
-}
-
-export function SvgToAstro(svg: string) {
-  return `
----
-const props = Astro.props 
----
-
-${svg.replace(/<svg (.*?)>/, '<svg $1 {...props}>')}
-`
 }
 
 export function SvgToReactNative(svg: string, name: string, snippet: boolean) {
@@ -284,22 +241,12 @@ export async function getIconSnippet(icon: string, type: string, snippet = true,
       return SvgToJSX(await getSvg(icon, undefined, color), toComponentName(icon), snippet)
     case 'tsx':
       return SvgToTSX(await getSvg(icon, undefined, color), toComponentName(icon), snippet)
-    case 'qwik':
-      return SvgToQwik(await getSvg(icon, undefined, color), toComponentName(icon), snippet)
     case 'vue':
       return SvgToVue(await getSvg(icon, undefined, color), toComponentName(icon))
     case 'vue-ts':
       return SvgToVue(await getSvg(icon, undefined, color), toComponentName(icon), true)
-    case 'solid':
-      return SvgToSolid(await getSvg(icon, undefined, color), toComponentName(icon), snippet)
-    case 'svelte':
-      return SvgToSvelte(await getSvg(icon, undefined, color))
-    case 'astro':
-      return SvgToAstro(await getSvg(icon, undefined, color))
     case 'react-native':
       return SvgToReactNative(await getSvg(icon, undefined, color), toComponentName(icon), snippet)
-    case 'unplugin':
-      return `import ${toComponentName(icon)} from '~icons/${icon.split(':')[0]}/${icon.split(':')[1]}'`
   }
 }
 
