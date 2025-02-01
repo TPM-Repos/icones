@@ -11,13 +11,11 @@ const props = defineProps({
   },
 })
 
-const managers = ['pnpm', 'npm', 'yarn', 'bun'] as const
+const managers = ['pnpm', 'npm'] as const
 
 const icons = {
   npm: 'i-logos:npm-icon',
   pnpm: 'i-logos:pnpm',
-  yarn: 'i-logos:yarn',
-  bun: 'i-logos:bun',
 }
 
 function selectManager(packageName: string) {
