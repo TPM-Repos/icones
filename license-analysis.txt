@@ -1,0 +1,199 @@
+ICON COLLECTION LICENSE ANALYSIS
+=================================
+
+COMMERCIAL USE WITHOUT ATTRIBUTION REQUIRED
+============================================
+(130 collections)
+
+  1. Material Symbols
+  2. Material Symbols Light
+  3. Google Material Icons
+  4. Material Design Icons
+  5. Material Design Light
+  6. Material Line Icons
+  7. Tabler Icons
+  8. Huge Icons
+  9. MingCute Icon
+  10. Remix Icon
+  11. Myna UI Icons
+  12. Iconoir
+  13. Lucide
+  14. Lucide Lab
+  15. Unicons
+  16. TDesign Icons
+  17. Sargam Icons
+  18. Majesticons
+  19. css.gg
+  20. Flowbite Icons
+  21. Pixelarticons
+  22. Akar Icons
+  23. ProIcons
+  24. Meteor Icons
+  25. Prime Icons
+  26. Circum Icons
+  27. Feather Icon
+  28. EOS Icons
+  29. Bitcoin Icons
+  30. Humbleicons
+  31. Unicons Monochrome
+  32. Unicons Thin Line
+  33. Unicons Solid
+  34. Mono Icons
+  35. Cuida Icons
+  36. WeUI Icon
+  37. Duoicons
+  38. SVG Spinners
+  39. Mage Icons
+  40. Stash Icons
+  41. Lineicons
+  42. IconPark Outline
+  43. IconPark Solid
+  44. IconPark TwoTone
+  45. Jam Icons
+  46. Carbon
+  47. IonIcons
+  48. Ant Design Icons
+  49. Lsicon
+  50. Gravity UI Icons
+  51. Element Plus
+  52. Charm Icons
+  53. Quill Icons
+  54. Bytesize Icons
+  55. Bootstrap Icons
+  56. Rivet Icons
+  57. Nimbus
+  58. FormKit Icons
+  59. Fluent UI System Icons
+  60. Phosphor
+  61. Teenyicons
+  62. Clarity
+  63. Siemens Industrial Experience Icons
+  64. Octicons
+  65. Memory Icons
+  66. System UIcons
+  67. Radix Icons
+  68. Zondicons
+  69. uiw icons
+  70. Maki
+  71. Evil Icons
+  72. HeroIcons
+  73. Framework7 Icons
+  74. Gitlab SVGs
+  75. OOUI
+  76. OpenSearch UI
+  77. Qlementine Icons
+  78. Fluent UI System Color Icons
+  79. IconPark
+  80. Marketeq
+  81. VSCode Icons
+  82. File Icons
+  83. Devicon
+  84. Devicon Plain
+  85. Catppuccin Icons
+  86. Skill Icons
+  87. UnJS Logos
+  88. Simple Icons
+  89. SVG Logos
+  90. CoreUI Brands
+  91. Nonicons
+  92. Web3 Icons
+  93. Web3 Icons Branded
+  94. Cryptocurrency Icons
+  95. Cryptocurrency Color Icons
+  96. Noto Emoji
+  97. Fluent Emoji
+  98. Fluent Emoji Flat
+  99. Fluent Emoji High Contrast
+  100. Noto Emoji (v1)
+  101. Firefox OS Emoji
+  102. Circle Flags
+  103. Flag Icons
+  104. Flagpack
+  105. CoreUI Flags
+  106. Map Icons
+  107. GeoGlyphs
+  108. Academicons
+  109. Weather Icons
+  110. Meteocons
+  111. Health Icons
+  112. Medical Icons
+  113. Line Awesome
+  114. Eva Icons
+  115. Flat Color Icons
+  116. Foundation
+  117. Raphael
+  118. Icons8 Windows 10 Icons
+  119. Innowatio Font
+  120. HeroIcons v1 Outline
+  121. HeroIcons v1 Solid
+  122. Font Awesome 4
+  123. Fluent UI MDL2
+  124. Fontisto
+  125. Open Iconic
+  126. Icons8 Windows 8 Icons
+  127. Simple line icons
+  128. Elusive Icons
+  129. Vaadin Icons
+  130. Grommet Icons
+
+
+COMMERCIAL USE WITH ATTRIBUTION REQUIRED
+==========================================
+(38 collections)
+
+  1. Solar
+  2. IconaMoon
+  3. BoxIcons
+  4. BoxIcons Solid
+  5. Basil
+  6. coolicons
+  7. Typicons
+  8. Lets Icons
+  9. Guidance
+  10. CoreUI Free
+  11. Pepicons Pop!
+  12. Pepicons Print
+  13. Pepicons Pencil
+  14. Streamline
+  15. Font Awesome Solid
+  16. Font Awesome Regular
+  17. NRK Core Icons
+  18. Codicons
+  19. Font Awesome Brands
+  20. BoxIcons Logo
+  21. Arcticons
+  22. Brandico
+  23. Entypo+ Social
+  24. OpenMoji
+  25. Twitter Emoji
+  26. Emoji One (Colored)
+  27. Emoji One (Monotone)
+  28. Emoji One (v1)
+  29. Streamline Emojis
+  30. Font-GIS
+  31. Game Icons
+  32. FontAudio
+  33. Covid Icons
+  34. Entypo+
+  35. Font Awesome 5 Solid
+  36. Font Awesome 5 Regular
+  37. Font Awesome 5 Brands
+  38. Subway Icon Set
+
+
+NON-COMMERCIAL ONLY (cannot use commercially)
+===============================================
+(1 collections)
+
+  1. Custom Brand Icons
+
+
+GPL VARIANTS (commercial use OK but with copyleft)
+===================================================
+(5 collections)
+
+  1. Gridicons
+  2. Dashicons
+  3. Gala Icons
+  4. IcoMoon Free
+  5. Elegant

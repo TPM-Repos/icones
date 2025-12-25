@@ -1,0 +1,1383 @@
+[
+  {
+    "name": "Material Symbols",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Material Symbols Light",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Google Material Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/material-icons/material-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Material Design Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Templarian/MaterialDesign/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Material Design Light",
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://github.com/Templarian/MaterialDesignLight/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Material Line Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/line-md/blob/master/license.txt"
+    }
+  },
+  {
+    "name": "Solar",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Tabler Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/tabler/tabler-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Huge Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "MingCute Icon",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Richard9394/MingCute/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Remix Icon",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Remix-Design/RemixIcon/blob/master/License"
+    }
+  },
+  {
+    "name": "Myna UI Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "IconaMoon",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Iconoir",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Lucide",
+    "license": {
+      "title": "ISC",
+      "spdx": "ISC",
+      "url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Lucide Lab",
+    "license": {
+      "title": "ISC",
+      "spdx": "ISC",
+      "url": "https://github.com/lucide-icons/lucide-lab/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Unicons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "TDesign Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/Tencent/tdesign-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Sargam Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt"
+    }
+  },
+  {
+    "name": "BoxIcons",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "BoxIcons Solid",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Majesticons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/halfmage/majesticons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "css.gg",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/astrit/css.gg/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Flowbite Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/themesberg/flowbite-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Basil",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Pixelarticons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/halfmage/pixelarticons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Akar Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "coolicons",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "ProIcons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/ProCode-Software/proicons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Typicons",
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "name": "Meteor Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/zkreations/icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Prime Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/primefaces/primeicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Circum Icons",
+    "license": {
+      "title": "Mozilla Public License 2.0",
+      "spdx": "MPL-2.0",
+      "url": "https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Feather Icon",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/feathericon/feathericon/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "EOS Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Bitcoin Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT"
+    }
+  },
+  {
+    "name": "Humbleicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/zraly/humbleicons/blob/master/license"
+    }
+  },
+  {
+    "name": "Unicons Monochrome",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Unicons Thin Line",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Unicons Solid",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Gridicons",
+    "license": {
+      "title": "GPL 2.0",
+      "spdx": "GPL-2.0-only",
+      "url": "https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md"
+    }
+  },
+  {
+    "name": "Mono Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/mono-company/mono-icons/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Cuida Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Sysvale/cuida-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "WeUI Icon",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "Duoicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/fazdiu/duo-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "SVG Spinners",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Lets Icons",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Mage Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Mage-Icons/mage-icons/blob/main/License.txt"
+    }
+  },
+  {
+    "name": "Stash Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/stash-ui/icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Lineicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md"
+    }
+  },
+  {
+    "name": "IconPark Outline",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "IconPark Solid",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "IconPark TwoTone",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Jam Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/michaelampr/jam/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Guidance",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Carbon",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0"
+    }
+  },
+  {
+    "name": "IonIcons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/ionic-team/ionicons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Ant Design Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/ant-design/ant-design-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Lsicon",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Gravity UI Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/gravity-ui/icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "CoreUI Free",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Element Plus",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json"
+    }
+  },
+  {
+    "name": "Charm Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/jaynewey/charm-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Quill Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Bytesize Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Bootstrap Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/twbs/icons/blob/main/LICENSE.md"
+    }
+  },
+  {
+    "name": "Rivet Icons",
+    "license": {
+      "title": "BSD 3-Clause",
+      "spdx": "BSD-3-Clause",
+      "url": "https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE"
+    }
+  },
+  {
+    "name": "Nimbus",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "FormKit Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/formkit/formkit/blob/master/packages/icons/LICENSE"
+    }
+  },
+  {
+    "name": "Fluent UI System Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Phosphor",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/phosphor-icons/core/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Teenyicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/teenyicons/teenyicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Clarity",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/vmware/clarity-assets/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Siemens Industrial Experience Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/siemens/ix-icons/blob/main/LICENSE.md"
+    }
+  },
+  {
+    "name": "Octicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/primer/octicons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Memory Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Pictogrammers/Memory/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "System UIcons",
+    "license": {
+      "title": "Unlicense",
+      "spdx": "Unlicense",
+      "url": "https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Radix Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/radix-ui/icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Zondicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "uiw icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/uiwjs/icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Maki",
+    "license": {
+      "title": "CC0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "name": "Evil Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt"
+    }
+  },
+  {
+    "name": "HeroIcons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Pepicons Pop!",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+    }
+  },
+  {
+    "name": "Pepicons Print",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+    }
+  },
+  {
+    "name": "Pepicons Pencil",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+    }
+  },
+  {
+    "name": "Framework7 Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/framework7io/framework7-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Gitlab SVGs",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Streamline",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Font Awesome Solid",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Font Awesome Regular",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "OOUI",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT"
+    }
+  },
+  {
+    "name": "OpenSearch UI",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/opensearch-project/oui/blob/main/LICENSE.txt"
+    }
+  },
+  {
+    "name": "NRK Core Icons",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Qlementine Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/oclero/qlementine-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Fluent UI System Color Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "IconPark",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Marketeq",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "VSCode Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Codicons",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "File Icons",
+    "license": {
+      "title": "ISC",
+      "spdx": "ISC",
+      "url": "https://github.com/file-icons/icons/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Devicon",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Devicon Plain",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Catppuccin Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/catppuccin/vscode-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Skill Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/tandpfun/skill-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "UnJS Logos",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0"
+    }
+  },
+  {
+    "name": "Simple Icons",
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md"
+    }
+  },
+  {
+    "name": "SVG Logos",
+    "license": {
+      "title": "CC0",
+      "spdx": "CC0-1.0",
+      "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
+    }
+  },
+  {
+    "name": "CoreUI Brands",
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "name": "Font Awesome Brands",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "BoxIcons Logo",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Nonicons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/yamatsum/nonicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Arcticons",
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "name": "Custom Brand Icons",
+    "license": {
+      "title": "CC BY-NC-SA 4.0",
+      "spdx": "CC-BY-NC-SA-4.0",
+      "url": "https://github.com/elax46/custom-brand-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Brandico",
+    "license": {
+      "title": "CC BY SA",
+      "spdx": "CC-BY-SA-3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "name": "Entypo+ Social",
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "name": "Web3 Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/0xa3k5/web3icons/blob/main/LICENCE"
+    }
+  },
+  {
+    "name": "Web3 Icons Branded",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/0xa3k5/web3icons/blob/main/LICENCE"
+    }
+  },
+  {
+    "name": "Cryptocurrency Icons",
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "name": "Cryptocurrency Color Icons",
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "name": "OpenMoji",
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "name": "Twitter Emoji",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Noto Emoji",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/googlefonts/noto-emoji/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Fluent Emoji",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Fluent Emoji Flat",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Fluent Emoji High Contrast",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Noto Emoji (v1)",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/googlefonts/noto-emoji/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Emoji One (Colored)",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Emoji One (Monotone)",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Emoji One (v1)",
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "name": "Firefox OS Emoji",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://mozilla.github.io/fxemoji/LICENSE.md"
+    }
+  },
+  {
+    "name": "Streamline Emojis",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Circle Flags",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
+    }
+  },
+  {
+    "name": "Flag Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/lipis/flag-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Flagpack",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/Yummygum/flagpack-core/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "CoreUI Flags",
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "name": "Font-GIS",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md"
+    }
+  },
+  {
+    "name": "Map Icons",
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    }
+  },
+  {
+    "name": "GeoGlyphs",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cugos/geoglyphs/blob/main/LICENSE.md"
+    }
+  },
+  {
+    "name": "Game Icons",
+    "license": {
+      "title": "CC BY 3.0",
+      "spdx": "CC-BY-3.0",
+      "url": "https://github.com/game-icons/icons/blob/master/license.txt"
+    }
+  },
+  {
+    "name": "FontAudio",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Academicons",
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    }
+  },
+  {
+    "name": "Weather Icons",
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    }
+  },
+  {
+    "name": "Meteocons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/basmilius/weather-icons/blob/dev/LICENSE"
+    }
+  },
+  {
+    "name": "Health Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Medical Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/samcome/webfont-medical-icons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Covid Icons",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Line Awesome",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  },
+  {
+    "name": "Eva Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
+    }
+  },
+  {
+    "name": "Dashicons",
+    "license": {
+      "title": "GPL",
+      "spdx": "GPL-2.0-or-later",
+      "url": "https://github.com/WordPress/dashicons/blob/master/gpl.txt"
+    }
+  },
+  {
+    "name": "Flat Color Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "Entypo+",
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "name": "Foundation",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "Raphael",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "Icons8 Windows 10 Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "Innowatio Font",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  },
+  {
+    "name": "Gala Icons",
+    "license": {
+      "title": "GPL",
+      "spdx": "GPL-3.0",
+      "url": "https://github.com/cyberalien/gala-icons/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "HeroIcons v1 Outline",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "HeroIcons v1 Solid",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Font Awesome 5 Solid",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Font Awesome 5 Regular",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Font Awesome 5 Brands",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Font Awesome 4",
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    }
+  },
+  {
+    "name": "Fluent UI MDL2",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE"
+    }
+  },
+  {
+    "name": "Fontisto",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/kenangundogan/fontisto/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "IcoMoon Free",
+    "license": {
+      "title": "GPL",
+      "spdx": "GPL-3.0-or-later",
+      "url": "https://www.gnu.org/licenses/gpl.html"
+    }
+  },
+  {
+    "name": "Subway Icon Set",
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "name": "Open Iconic",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE"
+    }
+  },
+  {
+    "name": "Icons8 Windows 8 Icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    }
+  },
+  {
+    "name": "Simple line icons",
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Elegant",
+    "license": {
+      "title": "GPL 3.0",
+      "spdx": "GPL-3.0-or-later",
+      "url": "https://www.gnu.org/licenses/gpl.html"
+    }
+  },
+  {
+    "name": "Elusive Icons",
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    }
+  },
+  {
+    "name": "Vaadin Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0"
+    }
+  },
+  {
+    "name": "Grommet Icons",
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  }
+]

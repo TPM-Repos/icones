@@ -1,0 +1,862 @@
+Icon Collection Licenses
+=========================
+
+1. Material Symbols
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+
+2. Material Symbols Light
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+
+3. Google Material Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
+
+4. Material Design Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Templarian/MaterialDesign/blob/master/LICENSE
+
+5. Material Design Light
+   License: Open Font License
+   SPDX: OFL-1.1
+   URL: https://github.com/Templarian/MaterialDesignLight/blob/master/LICENSE.md
+
+6. Material Line Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/cyberalien/line-md/blob/master/license.txt
+
+7. Solar
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+8. Tabler Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
+
+9. Huge Icons
+   License: MIT
+   SPDX: MIT
+
+10. MingCute Icon
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Richard9394/MingCute/blob/main/LICENSE
+
+11. Remix Icon
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
+
+12. Myna UI Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE
+
+13. IconaMoon
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+14. Iconoir
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
+
+15. Lucide
+   License: ISC
+   SPDX: ISC
+   URL: https://github.com/lucide-icons/lucide/blob/main/LICENSE
+
+16. Lucide Lab
+   License: ISC
+   SPDX: ISC
+   URL: https://github.com/lucide-icons/lucide-lab/blob/main/LICENSE
+
+17. Unicons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
+
+18. TDesign Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/Tencent/tdesign-icons/blob/main/LICENSE
+
+19. Sargam Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt
+
+20. BoxIcons
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+21. BoxIcons Solid
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+22. Majesticons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/halfmage/majesticons/blob/main/LICENSE
+
+23. css.gg
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/astrit/css.gg/blob/master/LICENSE
+
+24. Flowbite Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/themesberg/flowbite-icons/blob/main/LICENSE
+
+25. Basil
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+26. Pixelarticons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
+
+27. Akar Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
+
+28. coolicons
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+29. ProIcons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/ProCode-Software/proicons/blob/main/LICENSE
+
+30. Typicons
+   License: CC BY-SA 4.0
+   SPDX: CC-BY-SA-4.0
+   URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+31. Meteor Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/zkreations/icons/blob/main/LICENSE
+
+32. Prime Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/primefaces/primeicons/blob/master/LICENSE
+
+33. Circum Icons
+   License: Mozilla Public License 2.0
+   SPDX: MPL-2.0
+   URL: https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE
+
+34. Feather Icon
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/feathericon/feathericon/blob/master/LICENSE
+
+35. EOS Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
+
+36. Bitcoin Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT
+
+37. Humbleicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/zraly/humbleicons/blob/master/license
+
+38. Unicons Monochrome
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
+
+39. Unicons Thin Line
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
+
+40. Unicons Solid
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
+
+41. Gridicons
+   License: GPL 2.0
+   SPDX: GPL-2.0-only
+   URL: https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md
+
+42. Mono Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
+
+43. Cuida Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Sysvale/cuida-icons/blob/main/LICENSE
+
+44. WeUI Icon
+   License: MIT
+   SPDX: MIT
+
+45. Duoicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/fazdiu/duo-icons/blob/master/LICENSE
+
+46. SVG Spinners
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE
+
+47. Lets Icons
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+48. Mage Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Mage-Icons/mage-icons/blob/main/License.txt
+
+49. Stash Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/stash-ui/icons/blob/master/LICENSE
+
+50. Lineicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md
+
+51. IconPark Outline
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+
+52. IconPark Solid
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+
+53. IconPark TwoTone
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+
+54. Jam Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/michaelampr/jam/blob/master/LICENSE
+
+55. Guidance
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+56. Carbon
+   License: Apache 2.0
+   SPDX: Apache-2.0
+
+57. IonIcons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
+
+58. Ant Design Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
+
+59. Lsicon
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE
+
+60. Gravity UI Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
+
+61. CoreUI Free
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+62. Element Plus
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
+
+63. Charm Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/jaynewey/charm-icons/blob/main/LICENSE
+
+64. Quill Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE
+
+65. Bytesize Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
+
+66. Bootstrap Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/twbs/icons/blob/main/LICENSE.md
+
+67. Rivet Icons
+   License: BSD 3-Clause
+   SPDX: BSD-3-Clause
+   URL: https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE
+
+68. Nimbus
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE
+
+69. FormKit Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/formkit/formkit/blob/master/packages/icons/LICENSE
+
+70. Fluent UI System Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
+
+71. Phosphor
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/phosphor-icons/core/blob/main/LICENSE
+
+72. Teenyicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/teenyicons/teenyicons/blob/master/LICENSE
+
+73. Clarity
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/vmware/clarity-assets/blob/master/LICENSE
+
+74. Siemens Industrial Experience Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/siemens/ix-icons/blob/main/LICENSE.md
+
+75. Octicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/primer/octicons/blob/main/LICENSE
+
+76. Memory Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/Pictogrammers/Memory/blob/main/LICENSE
+
+77. System UIcons
+   License: Unlicense
+   SPDX: Unlicense
+   URL: https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE
+
+78. Radix Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/radix-ui/icons/blob/master/LICENSE
+
+79. Zondicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE
+
+80. uiw icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/uiwjs/icons/blob/master/LICENSE
+
+81. Maki
+   License: CC0
+   SPDX: CC0-1.0
+   URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+82. Evil Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt
+
+83. HeroIcons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+
+84. Pepicons Pop!
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
+
+85. Pepicons Print
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
+
+86. Pepicons Pencil
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
+
+87. Framework7 Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/framework7io/framework7-icons/blob/master/LICENSE
+
+88. Gitlab SVGs
+   License: MIT
+   SPDX: MIT
+   URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
+
+89. Streamline
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+90. Font Awesome Solid
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+91. Font Awesome Regular
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+92. OOUI
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
+
+93. OpenSearch UI
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/opensearch-project/oui/blob/main/LICENSE.txt
+
+94. NRK Core Icons
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+95. Qlementine Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/oclero/qlementine-icons/blob/master/LICENSE
+
+96. Fluent UI System Color Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
+
+97. IconPark
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+
+98. Marketeq
+   License: MIT
+   SPDX: MIT
+
+99. VSCode Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
+
+100. Codicons
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
+
+101. File Icons
+   License: ISC
+   SPDX: ISC
+   URL: https://github.com/file-icons/icons/blob/master/LICENSE.md
+
+102. Devicon
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/devicons/devicon/blob/master/LICENSE
+
+103. Devicon Plain
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/devicons/devicon/blob/master/LICENSE
+
+104. Catppuccin Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/catppuccin/vscode-icons/blob/main/LICENSE
+
+105. Skill Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/tandpfun/skill-icons/blob/main/LICENSE
+
+106. UnJS Logos
+   License: Apache 2.0
+   SPDX: Apache-2.0
+
+107. Simple Icons
+   License: CC0 1.0
+   SPDX: CC0-1.0
+   URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+
+108. SVG Logos
+   License: CC0
+   SPDX: CC0-1.0
+   URL: https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
+
+109. CoreUI Brands
+   License: CC0 1.0
+   SPDX: CC0-1.0
+   URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+110. Font Awesome Brands
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+111. BoxIcons Logo
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+112. Nonicons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/yamatsum/nonicons/blob/master/LICENSE
+
+113. Arcticons
+   License: CC BY-SA 4.0
+   SPDX: CC-BY-SA-4.0
+   URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+114. Custom Brand Icons
+   License: CC BY-NC-SA 4.0
+   SPDX: CC-BY-NC-SA-4.0
+   URL: https://github.com/elax46/custom-brand-icons/blob/main/LICENSE
+
+115. Brandico
+   License: CC BY SA
+   SPDX: CC-BY-SA-3.0
+   URL: https://creativecommons.org/licenses/by-sa/3.0/
+
+116. Entypo+ Social
+   License: CC BY-SA 4.0
+   SPDX: CC-BY-SA-4.0
+   URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+117. Web3 Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
+
+118. Web3 Icons Branded
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
+
+119. Cryptocurrency Icons
+   License: CC0 1.0
+   SPDX: CC0-1.0
+   URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+120. Cryptocurrency Color Icons
+   License: CC0 1.0
+   SPDX: CC0-1.0
+   URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+121. OpenMoji
+   License: CC BY-SA 4.0
+   SPDX: CC-BY-SA-4.0
+   URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+122. Twitter Emoji
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+123. Noto Emoji
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
+
+124. Fluent Emoji
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+
+125. Fluent Emoji Flat
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+
+126. Fluent Emoji High Contrast
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+
+127. Noto Emoji (v1)
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
+
+128. Emoji One (Colored)
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+129. Emoji One (Monotone)
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+130. Emoji One (v1)
+   License: CC BY-SA 4.0
+   SPDX: CC-BY-SA-4.0
+   URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+131. Firefox OS Emoji
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://mozilla.github.io/fxemoji/LICENSE.md
+
+132. Streamline Emojis
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+133. Circle Flags
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE
+
+134. Flag Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
+
+135. Flagpack
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/Yummygum/flagpack-core/blob/main/LICENSE
+
+136. CoreUI Flags
+   License: CC0 1.0
+   SPDX: CC0-1.0
+   URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+137. Font-GIS
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md
+
+138. Map Icons
+   License: Open Font License
+   SPDX: OFL-1.1
+   URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+139. GeoGlyphs
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/cugos/geoglyphs/blob/main/LICENSE.md
+
+140. Game Icons
+   License: CC BY 3.0
+   SPDX: CC-BY-3.0
+   URL: https://github.com/game-icons/icons/blob/master/license.txt
+
+141. FontAudio
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+142. Academicons
+   License: Open Font License
+   SPDX: OFL-1.1
+   URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+143. Weather Icons
+   License: Open Font License
+   SPDX: OFL-1.1
+   URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+144. Meteocons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/basmilius/weather-icons/blob/dev/LICENSE
+
+145. Health Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE
+
+146. Medical Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/samcome/webfont-medical-icons/blob/master/LICENSE
+
+147. Covid Icons
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+148. Line Awesome
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://www.apache.org/licenses/LICENSE-2.0
+
+149. Eva Icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/akveo/eva-icons/blob/master/LICENSE.txt
+
+150. Dashicons
+   License: GPL
+   SPDX: GPL-2.0-or-later
+   URL: https://github.com/WordPress/dashicons/blob/master/gpl.txt
+
+151. Flat Color Icons
+   License: MIT
+   SPDX: MIT
+
+152. Entypo+
+   License: CC BY-SA 4.0
+   SPDX: CC-BY-SA-4.0
+   URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+153. Foundation
+   License: MIT
+   SPDX: MIT
+
+154. Raphael
+   License: MIT
+   SPDX: MIT
+
+155. Icons8 Windows 10 Icons
+   License: MIT
+   SPDX: MIT
+
+156. Innowatio Font
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://www.apache.org/licenses/LICENSE-2.0
+
+157. Gala Icons
+   License: GPL
+   SPDX: GPL-3.0
+   URL: https://github.com/cyberalien/gala-icons/blob/main/LICENSE
+
+158. HeroIcons v1 Outline
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+
+159. HeroIcons v1 Solid
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+
+160. Font Awesome 5 Solid
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+161. Font Awesome 5 Regular
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+162. Font Awesome 5 Brands
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+163. Font Awesome 4
+   License: Open Font License
+   SPDX: OFL-1.1
+   URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+164. Fluent UI MDL2
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE
+
+165. Fontisto
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/kenangundogan/fontisto/blob/master/LICENSE
+
+166. IcoMoon Free
+   License: GPL
+   SPDX: GPL-3.0-or-later
+   URL: https://www.gnu.org/licenses/gpl.html
+
+167. Subway Icon Set
+   License: CC BY 4.0
+   SPDX: CC-BY-4.0
+   URL: https://creativecommons.org/licenses/by/4.0/
+
+168. Open Iconic
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE
+
+169. Icons8 Windows 8 Icons
+   License: MIT
+   SPDX: MIT
+
+170. Simple line icons
+   License: MIT
+   SPDX: MIT
+   URL: https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md
+
+171. Elegant
+   License: GPL 3.0
+   SPDX: GPL-3.0-or-later
+   URL: https://www.gnu.org/licenses/gpl.html
+
+172. Elusive Icons
+   License: Open Font License
+   SPDX: OFL-1.1
+   URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+173. Vaadin Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+
+174. Grommet Icons
+   License: Apache 2.0
+   SPDX: Apache-2.0
+   URL: https://www.apache.org/licenses/LICENSE-2.0
+

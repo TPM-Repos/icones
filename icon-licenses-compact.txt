@@ -1,0 +1,177 @@
+Icon Collection Licenses (Compact)
+====================================
+
+1. Material Symbols - Apache 2.0
+2. Material Symbols Light - Apache 2.0
+3. Google Material Icons - Apache 2.0
+4. Material Design Icons - Apache 2.0
+5. Material Design Light - Open Font License
+6. Material Line Icons - MIT
+7. Solar - CC BY 4.0
+8. Tabler Icons - MIT
+9. Huge Icons - MIT
+10. MingCute Icon - Apache 2.0
+11. Remix Icon - Apache 2.0
+12. Myna UI Icons - MIT
+13. IconaMoon - CC BY 4.0
+14. Iconoir - MIT
+15. Lucide - ISC
+16. Lucide Lab - ISC
+17. Unicons - Apache 2.0
+18. TDesign Icons - MIT
+19. Sargam Icons - MIT
+20. BoxIcons - CC BY 4.0
+21. BoxIcons Solid - CC BY 4.0
+22. Majesticons - MIT
+23. css.gg - MIT
+24. Flowbite Icons - MIT
+25. Basil - CC BY 4.0
+26. Pixelarticons - MIT
+27. Akar Icons - MIT
+28. coolicons - CC BY 4.0
+29. ProIcons - MIT
+30. Typicons - CC BY-SA 4.0
+31. Meteor Icons - MIT
+32. Prime Icons - MIT
+33. Circum Icons - Mozilla Public License 2.0
+34. Feather Icon - MIT
+35. EOS Icons - MIT
+36. Bitcoin Icons - MIT
+37. Humbleicons - MIT
+38. Unicons Monochrome - Apache 2.0
+39. Unicons Thin Line - Apache 2.0
+40. Unicons Solid - Apache 2.0
+41. Gridicons - GPL 2.0
+42. Mono Icons - MIT
+43. Cuida Icons - Apache 2.0
+44. WeUI Icon - MIT
+45. Duoicons - MIT
+46. SVG Spinners - MIT
+47. Lets Icons - CC BY 4.0
+48. Mage Icons - Apache 2.0
+49. Stash Icons - MIT
+50. Lineicons - MIT
+51. IconPark Outline - Apache 2.0
+52. IconPark Solid - Apache 2.0
+53. IconPark TwoTone - Apache 2.0
+54. Jam Icons - MIT
+55. Guidance - CC BY 4.0
+56. Carbon - Apache 2.0
+57. IonIcons - MIT
+58. Ant Design Icons - MIT
+59. Lsicon - MIT
+60. Gravity UI Icons - MIT
+61. CoreUI Free - CC BY 4.0
+62. Element Plus - MIT
+63. Charm Icons - MIT
+64. Quill Icons - MIT
+65. Bytesize Icons - MIT
+66. Bootstrap Icons - MIT
+67. Rivet Icons - BSD 3-Clause
+68. Nimbus - MIT
+69. FormKit Icons - MIT
+70. Fluent UI System Icons - MIT
+71. Phosphor - MIT
+72. Teenyicons - MIT
+73. Clarity - MIT
+74. Siemens Industrial Experience Icons - MIT
+75. Octicons - MIT
+76. Memory Icons - Apache 2.0
+77. System UIcons - Unlicense
+78. Radix Icons - MIT
+79. Zondicons - MIT
+80. uiw icons - MIT
+81. Maki - CC0
+82. Evil Icons - MIT
+83. HeroIcons - MIT
+84. Pepicons Pop! - CC BY 4.0
+85. Pepicons Print - CC BY 4.0
+86. Pepicons Pencil - CC BY 4.0
+87. Framework7 Icons - MIT
+88. Gitlab SVGs - MIT
+89. Streamline - CC BY 4.0
+90. Font Awesome Solid - CC BY 4.0
+91. Font Awesome Regular - CC BY 4.0
+92. OOUI - MIT
+93. OpenSearch UI - Apache 2.0
+94. NRK Core Icons - CC BY 4.0
+95. Qlementine Icons - MIT
+96. Fluent UI System Color Icons - MIT
+97. IconPark - Apache 2.0
+98. Marketeq - MIT
+99. VSCode Icons - MIT
+100. Codicons - CC BY 4.0
+101. File Icons - ISC
+102. Devicon - MIT
+103. Devicon Plain - MIT
+104. Catppuccin Icons - MIT
+105. Skill Icons - MIT
+106. UnJS Logos - Apache 2.0
+107. Simple Icons - CC0 1.0
+108. SVG Logos - CC0
+109. CoreUI Brands - CC0 1.0
+110. Font Awesome Brands - CC BY 4.0
+111. BoxIcons Logo - CC BY 4.0
+112. Nonicons - MIT
+113. Arcticons - CC BY-SA 4.0
+114. Custom Brand Icons - CC BY-NC-SA 4.0
+115. Brandico - CC BY SA
+116. Entypo+ Social - CC BY-SA 4.0
+117. Web3 Icons - MIT
+118. Web3 Icons Branded - MIT
+119. Cryptocurrency Icons - CC0 1.0
+120. Cryptocurrency Color Icons - CC0 1.0
+121. OpenMoji - CC BY-SA 4.0
+122. Twitter Emoji - CC BY 4.0
+123. Noto Emoji - Apache 2.0
+124. Fluent Emoji - MIT
+125. Fluent Emoji Flat - MIT
+126. Fluent Emoji High Contrast - MIT
+127. Noto Emoji (v1) - Apache 2.0
+128. Emoji One (Colored) - CC BY 4.0
+129. Emoji One (Monotone) - CC BY 4.0
+130. Emoji One (v1) - CC BY-SA 4.0
+131. Firefox OS Emoji - Apache 2.0
+132. Streamline Emojis - CC BY 4.0
+133. Circle Flags - MIT
+134. Flag Icons - MIT
+135. Flagpack - MIT
+136. CoreUI Flags - CC0 1.0
+137. Font-GIS - CC BY 4.0
+138. Map Icons - Open Font License
+139. GeoGlyphs - MIT
+140. Game Icons - CC BY 3.0
+141. FontAudio - CC BY 4.0
+142. Academicons - Open Font License
+143. Weather Icons - Open Font License
+144. Meteocons - MIT
+145. Health Icons - MIT
+146. Medical Icons - MIT
+147. Covid Icons - CC BY 4.0
+148. Line Awesome - Apache 2.0
+149. Eva Icons - MIT
+150. Dashicons - GPL
+151. Flat Color Icons - MIT
+152. Entypo+ - CC BY-SA 4.0
+153. Foundation - MIT
+154. Raphael - MIT
+155. Icons8 Windows 10 Icons - MIT
+156. Innowatio Font - Apache 2.0
+157. Gala Icons - GPL
+158. HeroIcons v1 Outline - MIT
+159. HeroIcons v1 Solid - MIT
+160. Font Awesome 5 Solid - CC BY 4.0
+161. Font Awesome 5 Regular - CC BY 4.0
+162. Font Awesome 5 Brands - CC BY 4.0
+163. Font Awesome 4 - Open Font License
+164. Fluent UI MDL2 - MIT
+165. Fontisto - MIT
+166. IcoMoon Free - GPL
+167. Subway Icon Set - CC BY 4.0
+168. Open Iconic - MIT
+169. Icons8 Windows 8 Icons - MIT
+170. Simple line icons - MIT
+171. Elegant - GPL 3.0
+172. Elusive Icons - Open Font License
+173. Vaadin Icons - Apache 2.0
+174. Grommet Icons - Apache 2.0

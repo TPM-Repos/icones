@@ -1,6 +1,7 @@
 import type { CollectionInfo } from '../data'
 import type { IdCase } from '../utils/case'
 import { idCases } from '../utils/case'
+import { isExcludedById } from '../config/excluded-collections'
 
 const RECENT_COLLECTION_CAPACITY = 10
 const RECENT_ICONS_CAPACITY = 100
@@ -35,7 +36,7 @@ export function isFavoritedCollection(id: string) {
 }
 
 export function isExcludedCollection(collection: CollectionInfo) {
-  return excludedCollectionIds.value.includes(collection.id) || excludedCategories.value.includes(collection.category || '')
+  return excludedCollectionIds.value.includes(collection.id) || excludedCategories.value.includes(collection.category || '') || isExcludedById(collection.id)
 }
 
 export function isExcludedCategory(category: string | undefined) {
