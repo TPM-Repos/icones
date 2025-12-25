@@ -18,7 +18,6 @@ export const SnippetMap: Record<string, Record<string, Snippet>> = {
   Snippets: {
     svg: { name: "SVG", lang: "html", prettierParser: "html" },
     "svg-symbol": { name: "SVG Symbol", lang: "html", prettierParser: "html" },
-    png: { name: "PNG", lang: "html", prettierParser: "html" },
   },
 
   Links: {
