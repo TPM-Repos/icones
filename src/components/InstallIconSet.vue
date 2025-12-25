@@ -2,7 +2,7 @@
 import type { PropType } from 'vue'
 import type { CollectionMeta } from '../data'
 import { ref, computed } from 'vue'
-import { copyPreviewColor, previewColor } from '../store'
+import { previewColor } from '../store'
 import { getTpmDriveWorksCode } from '../utils/icons'
 
 const props = defineProps({
