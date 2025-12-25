@@ -1,6 +1,10 @@
 {
   "rules": [
     {
+      "name": "PROJECT CONTEXT",
+      "description": "This is a fork of Anthony Fu's Icônes project, customized for TPM's Dynamic Icons DriveWorks Plugin. The original project is MIT-licensed and should be acknowledged. This fork is maintained by TPM for use with their DriveWorks customers."
+    },
+    {
       "name": "THE FEWER LINES OF CODE, THE BETTER",
       "description": "The fewer lines of code, the better."
     },
@@ -26,7 +30,7 @@
     },
     {
       "name": "SUMMARY OF CURRENT STATE",
-      "description": "Before we proceed, I need you to give me a summary of the current state. Summarize what we just did, which files were updated, and what didn't work. Do not include assumptions or theories—only the facts."
+      "description": "Before you proceed, I need you to give me a summary of the current state. Summarize what we just did, which files were updated, and what didn't work. Do not include assumptions or theories—only the facts."
     },
     {
       "name": "UNBIASED 50/50",
@@ -47,6 +51,26 @@
     {
       "name": "ONLY INCLUDE TRULY NECESSARY STEPS",
       "description": "Break this large change into the required steps. Only include the truly necessary steps."
+    },
+    {
+      "name": "DRIVEWORKS INTEGRATION",
+      "description": "All code changes should maintain compatibility with TPM's Dynamic Icons DriveWorks Plugin. Focus on features that help TPM customers find and use icons in their DriveWorks projects using TpmIcon() and TpmIcons() functions."
+    },
+    {
+      "name": "ICON COLLECTION SUPPORT",
+      "description": "Support the icon collections used in TPM's plugin: Material Design, Bootstrap, Font Awesome, Feather, Heroicons, Iconoir, flags, and TPM/DriveWorks custom icons. Subcollections use backslashes (e.g., awesome\\solid)."
+    },
+    {
+      "name": "TPM CUSTOMER FOCUS",
+      "description": "This website is for TPM customers. Keep the interface simple, focused on finding icons and copying DriveWorks code. Remove or simplify features not relevant to DriveWorks usage (like framework-specific export options)."
+    },
+    {
+      "name": "CREDIT ORIGINAL PROJECT",
+      "description": "When making significant changes, acknowledge the original Icônes project by Anthony Fu. The fork maintains the MIT license and should give credit where due."
+    },
+    {
+      "name": "DOCUMENTATION CONSISTENCY",
+      "description": "Keep documentation (README, help text, UI labels) consistent with TPM's branding and Dynamic Icons Plugin documentation. Link to TPM resources when appropriate."
     }
   ]
 }

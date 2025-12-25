@@ -24,6 +24,8 @@ export const SnippetMap: Record<string, Record<string, Snippet>> = {
   Links: {
     url: { name: "URL", lang: "html", prettierParser: "html" },
     data_url: { name: "Data URL", lang: "html", prettierParser: "html" },
+    "base64-svg": { name: "Base64 SVG", lang: "html", prettierParser: "html" },
+    "base64-png": { name: "Base64 PNG", lang: "html", prettierParser: "html" },
   },
 };
 
@@ -278,6 +280,10 @@ export async function getIconSnippet(
       return await getSvgSymbol(icon, "32", color);
     case "data_url":
       return SvgToDataURL(await getSvg(icon, undefined, color));
+    case "base64-svg":
+      return `data:image/svg+xml;base64,${Base64.encode(await getSvg(icon, undefined, color))}`;
+    case "base64-png":
+      return await svgToPngDataUrl(await getSvg(icon, "32", color));
     case "pure-jsx":
       return ClearSvg(await getSvg(icon, undefined, color));
     case "jsx":
