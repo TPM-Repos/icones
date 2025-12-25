@@ -315,3 +315,29 @@ export async function getIconSnippet(
 export function getIconDownloadLink(icon: string) {
   return `${API_ENTRY}/${icon}.svg?download=true&inline=false&height=auto`;
 }
+
+export function getTpmDriveWorksCode(
+  icon: string,
+  color = "currentColor",
+): string {
+  if (!icon) return "";
+
+  // Parse icon identifier (format: "collection:name" or "collection:subcollection:name")
+  const parts = icon.split(":");
+  const iconPack = parts[0];
+
+  // Build pack string with backslashes if multiple parts exist
+  const packString = parts.slice(0, parts.length - 1).join("\\");
+
+  // Get icon name (last part)
+  const iconName = parts[parts.length - 1];
+
+  // Use the actual color value
+  const colorValue = color;
+
+  // Determine function name based on collection
+  const isFlags = iconPack.toLowerCase().includes("flags");
+  const functionName = isFlags ? "TpmIcons" : "TpmIcon";
+
+  return `${functionName}("${packString}","${iconName}","${colorValue}")`;
+}

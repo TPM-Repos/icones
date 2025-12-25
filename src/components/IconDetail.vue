@@ -239,7 +239,7 @@ const collection = computed(() => {
 
       </div>
 
-      <InstallIconSet v-if="collection" :collection="collection" />
+      <InstallIconSet v-if="collection" :icon="icon" :collection="collection" />
     </div>
   </div>
 </template>
