@@ -54,7 +54,7 @@ export default defineComponent({
       <a
         class="non-dragging"
         i-carbon-logo-github icon-button flex-none
-        href="https://github.com/antfu/icones"
+        href="https://github.com/TPM-Repos/icones"
         target="_blank"
         title="GitHub"
       />
