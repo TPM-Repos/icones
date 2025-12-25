@@ -1,43 +1,27 @@
 <template>
   <div class="p-6 w-120 help-page">
     <p class="mb-2 opacity-75">
-      How to use the icon?
+      How to use this icon?
     </p>
 
     <h2 class="bold text-lg mb-1">
-      Copy per Icon
+      Recommended: TPM Dynamic Icon Plugin
     </h2>
     <p>
-      You can copy the icon as SVG to paste in almost any editor (Figma, Sketch, Illustrator, etc.), or copy as component to use in your web apps.
+      If you have the Dynamic Icon plugin installed, copy the rule below and paste it directly into your DriveWorks project. This gives you access to 14,000+ icons with optimal performance and scalability.
     </p>
 
     <h2 class="bold text-lg mt-5 mb-1">
-      Iconify Runtime
+      Alternative Methods
     </h2>
     <p>
-      Iconify provides a runtime solution that fetches icons on the go.
-      Refer its <a href="https://iconify.design/" target="_blank">documentation</a> for more details.
+      • Download PNG/SVG: Use the download buttons below for picture elements
     </p>
-
-    <h2 class="bold text-lg mt-5 mb-1">
-      Atomic CSS
-    </h2>
     <p>
-      Created by the author of <b>Icônes</b>. With the power of <a href="https://github.com/antfu/unocss">UnoCSS</a>, you can use the icons with <b>Pure CSS</b> using <a href="https://github.com/antfu/unocss/tree/main/packages/preset-icons" target="_blank"><code>@unocss/preset-icons</code></a>.
+      • Direct URL: Link via the URL button (not recommended for performance)
     </p>
-    <p class="mt-2">
-      Check out <a href="https://antfu.me/posts/icons-in-pure-css" target="_blank">this blog post</a> for more.
-    </p>
-
-    <h2 class="bold text-lg mt-5 mb-1">
-      Components
-    </h2>
     <p>
-      Created by the author of <b>Icônes</b>, <a href="https://github.com/antfu/unplugin-icons" target="_blank"><code>unplugin-icons</code></a> is a on-demand
-      solution to generate icons as components on the fly.
-    </p>
-    <p class="mt-2">
-      Check out <a href="https://antfu.me/posts/journey-with-icons-continues" target="_blank">this blog post</a> for the story behind.
+      • Base64: Get the encoded version for DriveWorks emails
     </p>
   </div>
 </template>
