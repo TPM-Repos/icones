@@ -7,18 +7,19 @@ const timeAgo = useTimeAgo(new Date(buildTime))
 <template>
   <footer class="text-center text-sm pt-8 pb-6">
     <p class="color-fade">
-      built by
+      Forked from
+      <a
+        class="opacity-75 hover:opacity-100"
+        href="https://github.com/antfu/icones"
+        target="_blank"
+      >Icônes</a>
+      by
       <a
         class="opacity-75 hover:opacity-100"
         href="https://github.com/antfu"
         target="_blank"
       >@antfu</a>,
-      powered by
-      <a
-        class="opacity-75 hover:opacity-100"
-        href="https://iconify.design"
-        target="_blank"
-      >Iconify</a>
+      adapted for TPM
     </p>
     <div color-fade mt-1 op50 italic>
       Last update: {{ buildTime }} ({{ timeAgo }})

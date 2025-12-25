@@ -49,7 +49,7 @@ export default defineComponent({
         absolute top-0 left-0 right-0 bottom-0 flex items-center justify-center
         text-xl font-light tracking-2px pointer-events-none
       >
-        Icônes
+        TPM
       </h1>
       <a
         class="non-dragging"

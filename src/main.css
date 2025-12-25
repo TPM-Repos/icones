@@ -1,7 +1,15 @@
 body {
   padding: 0;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body .v-application .primary {
+  background-color: #064280;
+  border-color: #064280;
 }
 
 html.dark {
@@ -18,8 +26,10 @@ html:not(.dark) .shiki span {
 }
 
 .btn {
-  --uno: border border-base rounded shadow-sm outline-none px-4 py-1 text-gray-600 text-sm transition-all bg-base
-    hover-(bg-gray-50 shadow) dark-(border-dark-200 text-gray-300) dark-hover-(border-primary bg-dark-100 text-primary)
+  --uno: border border-base rounded shadow-sm outline-none px-4 py-1
+    text-gray-600 text-sm transition-all bg-base hover-(bg-gray-50 shadow)
+    dark-(border-dark-200 text-gray-300)
+    dark-hover-(border-primary bg-dark-100 text-primary)
     focus-(shadow outline-none);
 }
 
@@ -103,15 +113,15 @@ html:not(.dark) .shiki span {
 
 /* fallback black svg in dark mode */
 .icons-item svg,
-.dark .icons-item [fill='#000'],
-.dark .icons-item [fill='#000000'],
-.dark .icons-item [fill='black'] {
+.dark .icons-item [fill="#000"],
+.dark .icons-item [fill="#000000"],
+.dark .icons-item [fill="black"] {
   fill: currentColor;
 }
 
-.dark .icons-item [stroke='#000'],
-.dark .icons-item [stroke='#000000'],
-.dark .icons-item [stroke='black'] {
+.dark .icons-item [stroke="#000"],
+.dark .icons-item [stroke="#000000"],
+.dark .icons-item [stroke="black"] {
   stroke: currentColor;
 }
 
