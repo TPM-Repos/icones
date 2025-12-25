@@ -42,9 +42,9 @@ async function copyText() {
 <template>
   <div lt-md:hidden>
     <a
-      href="https://github.com/tpm/DriveWorks-Icon-Plugin" target="_blank"
-      class="block w-fit my-1 text-sm mt6 op50 hover:op100 hover:text-primary"
-    >
+        href="https://github.com/TPM-Repos/Dynamic-Icon-Plugin/releases" target="_blank"
+        class="block w-fit my-1 text-sm mt6 op50 hover:op100 hover:text-primary"
+      >
       Use in TPM DriveWorks Icon Plugin
     </a>
     <div class="border-1 border-base rounded w-fit min-w-100 mt1">
