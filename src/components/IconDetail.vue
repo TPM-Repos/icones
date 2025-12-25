@@ -235,18 +235,6 @@ const collection = computed(() => {
           <button class="btn small mr-1 mb-1 opacity-75" @click="download('png')">
             PNG
           </button>
-          <button class="btn small mr-1 mb-1 opacity-75" @click="download('vue')">
-            Vue
-          </button>
-          <button class="btn small mr-1 mb-1 opacity-75" @click="download('jsx')">
-            React
-          </button>
-          <button class="btn small mr-1 mb-1 opacity-75" @click="download('tsx')">
-            React<sup class="opacity-50 -mr-1">TS</sup>
-          </button>
-          <button class="btn small mr-1 mb-1 opacity-75" @click="download('react-native')">
-            React Native
-          </button>
         </div>
 
       </div>
